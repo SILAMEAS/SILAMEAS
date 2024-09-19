@@ -32,7 +32,7 @@ Here are some of my favorite projects:
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=browser&logoColor=white)](https://sila-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=browser&logoColor=white)](https://sila-portfolio.vercel.app)
 
 ---
 
