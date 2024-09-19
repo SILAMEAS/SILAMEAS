@@ -1,12 +1,10 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Meas Sila.
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning. Here’s a bit about me:
 
 ## 🚀 About Me
-- 🌱 Currently learning: [Technology you're learning]
-- 👨‍💻 Working on: [Your current project or job role]
-- 📫 How to reach me: [Your email or social links]
-- ⚡ Fun fact: [An interesting fact about you]
+- 🌱 Currently learning: Next Nest SpringBoot React
+- 👨‍💻 Working on: Web Developer.
 
 ---
 
