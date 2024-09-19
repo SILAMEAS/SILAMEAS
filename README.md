@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 🔧 Technologies & Tools
 - Programming Languages: ![Languages](https://img.shields.io/badge/-Languages-brightgreen?logo=code)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=browser&logoColor=white)](https://sila-portfolio.vercel.app)
+  [![Next](https://img.shields.io/badge/-NextJs-blue?style=flat&logo=NextJs&logoColor=white)](https://nextjs.org/)
+  [![React](https://img.shields.io/badge/-React-red?style=flat&logo=React&logoColor=white)](https://react.dev/)
+  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-red?style=flat&logo=SpringBoot&logoColor=white)](https://spring.io/projects/spring-boot/)
 - Frameworks: ![Frameworks](https://img.shields.io/badge/-Frameworks-blue?logo=framework)
 - Databases: ![Database](https://img.shields.io/badge/-Database-orange?logo=database)
 - Tools: ![Tools](https://img.shields.io/badge/-Tools-yellow?logo=tools)
