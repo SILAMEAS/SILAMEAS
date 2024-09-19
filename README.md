@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 ---
 
 ## 🔧 Technologies & Tools
-- Programming Languages: ![Languages](https://img.shields.io/badge/-Languages-brightgreen?logo=code) ![Next](https://img.shields.io/badge/-Languages-brightgreen?logo=code)
+- Programming Languages: ![Languages,Next](https://img.shields.io/badge/-Languages-brightgreen?logo=code)
 - Frameworks: ![Frameworks](https://img.shields.io/badge/-Frameworks-blue?logo=framework)
 - Databases: ![Database](https://img.shields.io/badge/-Database-orange?logo=database)
 - Tools: ![Tools](https://img.shields.io/badge/-Tools-yellow?logo=tools)
