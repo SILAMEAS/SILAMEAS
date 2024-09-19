@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![SpringBoot](https://img.shields.io/badge/-SpringBoot-white?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
 - Frameworks: [![Next](https://img.shields.io/badge/-MUI-blue?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
 - Databases: ![Database](https://img.shields.io/badge/-Database-orange?logo=database)
-- Tools: ![Tools](https://img.shields.io/badge/-Tools-yellow?logo=tools)
+- Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
 
 ---
 
