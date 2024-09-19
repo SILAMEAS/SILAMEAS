@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 🔧 Technologies & Tools
 - Programming Languages: 
-  [![Next](https://img.shields.io/badge/-Next-blue?style=flat&logo=Next&logoColor=white)](https://nextjs.org/)
-  [![React](https://img.shields.io/badge/-React-red?style=flat&logo=React&logoColor=white)](https://react.dev/)
-  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat&logo=SpringBoot&logoColor=white)](https://spring.io/projects/spring-boot/)
+  [![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
+  [![React](https://img.shields.io/badge/-React-white?style=flat&logo=React&logoColor=blue)](https://react.dev/)
+  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-white?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
 - Frameworks: [![Next](https://img.shields.io/badge/-MUI-blue?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
 - Databases: ![Database](https://img.shields.io/badge/-Database-orange?logo=database)
 - Tools: ![Tools](https://img.shields.io/badge/-Tools-yellow?logo=tools)
