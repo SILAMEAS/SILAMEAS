@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![React](https://img.shields.io/badge/-React-white?style=flat&logo=React&logoColor=blue)](https://react.dev/)
   [![SpringBoot](https://img.shields.io/badge/-SpringBoot-white?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
   [![Nest](https://img.shields.io/badge/-NestJs-white?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
-- Frameworks: [![MUI](https://img.shields.io/badge/-MUI-blue?style=flat&logo=Mui&logoColor=white)](https://mui.com/) [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://mui.com/)](https://tailwindcss.com/)
+- Frameworks: [![MUI](https://img.shields.io/badge/-MUI-blue?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
+  [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://tailwindcss.com/)
 - Databases: ![Database](https://img.shields.io/badge/-Database-orange?logo=database)
 - Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
 
