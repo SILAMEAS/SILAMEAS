@@ -34,8 +34,8 @@ Here are some of my favorite projects:
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/meas-sila-204b1031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meas-sila-204b1031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=browser&logoColor=white)](https://sila-portfolio.vercel.app)
 
 ---
