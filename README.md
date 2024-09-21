@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 - Programming Languages: 
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://react.dev/)
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&logoColor=blue)](https://reactnative.dev/)
+  [![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=blue)](https://flutter.dev/?gad_source=1&gclid=Cj0KCQjw3bm3BhDJARIsAKnHoVVClQXaI-g_Y6ZeVshHmoXBHRQ0tXnrNEp6SJgo1NGEOqncHfmS4XUaAra_EALw_wcB&gclsrc=aw.ds)
   [![NodeJs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Nodejs&logoColor=white)](https://nodejs.org/en)
   ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript&logoColor=yellow)
   ![C](https://img.shields.io/badge/-Progamming-black?style=flat&logo=C&logoColor=white)
