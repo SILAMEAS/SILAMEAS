@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://react.dev/)
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&logoColor=blue)](https://reactnative.dev/)
   [![NodeJs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Nodejs&logoColor=white)](https://nodejs.org/en)
-  [![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript&logoColor=yellow)]
+  ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript&logoColor=yellow)
   ![C](https://img.shields.io/badge/-Progamming-black?style=flat&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/-C%20++-black?style=flat&logo=C++&logoColor=white)
 
