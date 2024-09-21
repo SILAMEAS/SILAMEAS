@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 - Frameworks: [![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
   [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://tailwindcss.com/)
   [![NEXTUI](https://img.shields.io/badge/-NEXTUI-black?style=flat&logo=NEXTUI&logoColor=white)](https://nextui.org/)
-  [![shadcn/ui](https://img.shields.io/badge/-Shadcn/UI-white?style=flat&logo=ShadcnUI&logoColor=white)](https://ui.shadcn.com/)
+  [![shadcn/ui](https://img.shields.io/badge/-Shadcn/UI-black?style=flat&logo=ShadcnUI&logoColor=white)](https://ui.shadcn.com/)
 
 
 - Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb&logoColor=green)
