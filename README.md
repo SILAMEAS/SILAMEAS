@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-black?style=flat&logo=Uploadthing&logoColor=orange)](https://uploadthing.com/)
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
   [![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=Render&logoColor=white)](https://render.com/)
-
+  [![Redux20Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat&logo=Redux%20Toolkit&logoColor=blue)](https://redux-toolkit.js.org/)
 
 
 ---
