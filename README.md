@@ -22,6 +22,11 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 - Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb&logoColor=green)
   ![Neon](https://img.shields.io/badge/-Neon-black?style=flat&logo=Neon&logoColor=white)
   ![AIVEN](https://img.shields.io/badge/-Aiven-black?style=flat&logo=Aiven&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=PostgreSQL&logoColor=blue)
+  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=MySQL&logoColor=blue)
+
+
+
 - Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
    [![Swagger](https://img.shields.io/badge/-Swagger-green?style=flat&logo=Swagger&logoColor=white)](https://swagger.io/)
    [![KINDE](https://img.shields.io/badge/-kinde-white?style=flat&logo=kinde&logoColor=black)](https://kinde.com/#product)
