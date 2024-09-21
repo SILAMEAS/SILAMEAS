@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 
 - Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
-   [![Swagger](https://img.shields.io/badge/-Swagger-green?style=flat&logo=Swagger&logoColor=white)](https://swagger.io/)
-   [![KINDE](https://img.shields.io/badge/-kinde-white?style=flat&logo=kinde&logoColor=black)](https://kinde.com/#product)
+   [![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=Swagger&logoColor=white)](https://swagger.io/)
+   [![KINDE](https://img.shields.io/badge/-kinde-black?style=flat&logo=kinde&logoColor=black)](https://kinde.com/#product)
 
   [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-black?style=flat&logo=Uploadthing&logoColor=orange)](https://uploadthing.com/)
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
