@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://tailwindcss.com/)
   [![NEXTUI](https://img.shields.io/badge/-NEXTUI-black?style=flat&logo=NEXTUI&logoColor=white)](https://nextui.org/)
   [![shadcn/ui](https://img.shields.io/badge/-Shadcn/UI-black?style=flat&logo=ShadcnUI&logoColor=white)](https://ui.shadcn.com/)
+  [![NativeBase](https://img.shields.io/badge/-NativeBase-black?style=flat&logo=nativebase&logoColor=blue)](https://nativebase.io/)
+
 
 
 - Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb&logoColor=green)
