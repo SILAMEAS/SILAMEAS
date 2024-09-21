@@ -45,6 +45,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
    [![KINDE](https://img.shields.io/badge/-kinde-black?style=flat&logo=kinde&logoColor=black)](https://kinde.com/#product)
   [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-black?style=flat&logo=Uploadthing&logoColor=orange)](https://uploadthing.com/)
   [![Redux20Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat&logo=Redux%20Toolkit&logoColor=blue)](https://redux-toolkit.js.org/)
+  [![UptimeRobot](https://img.shields.io/badge/-uptimeRobot-black?style=flat&logo=uptimeRobot&logoColor=blue)](https://dashboard.uptimerobot.com/monitors)
+  [![Cloudinary](https://img.shields.io/badge/-cloudinary-black?style=flat&logo=cloudinary&logoColor=blue)](https://console.cloudinary.com/)
+
 
 - Deployment website: 
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
