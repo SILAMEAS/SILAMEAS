@@ -47,6 +47,10 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Redux20Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat&logo=Redux%20Toolkit&logoColor=blue)](https://redux-toolkit.js.org/)
   [![UptimeRobot](https://img.shields.io/badge/-uptimeRobot-black?style=flat&logo=uptimeRobot&logoColor=blue)](https://dashboard.uptimerobot.com/monitors)
   [![Cloudinary](https://img.shields.io/badge/-cloudinary-black?style=flat&logo=cloudinary&logoColor=blue)](https://console.cloudinary.com/)
+  [![Cloudinary](https://img.shields.io/badge/-Drawio-black?style=flat&logo=drawio&logoColor=blue)](https://app.diagrams.net/)
+  [![Figma](https://img.shields.io/badge/-figma-black?style=flat&logo=figma&logoColor=purple)](https://www.figma.com/)
+  
+
 
 
 - Deployment website: 
