@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![NEXTUI](https://img.shields.io/badge/-NEXTUI-black?style=flat&logo=NEXTUI&logoColor=white)](https://nextui.org/)
 
 
-- Databases: ![Database](https://img.shields.io/badge/-Database-orange?logo=database)
-  ![Neon](https://console.neon.tech/app/projects)
+- Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb&logoColor=green)
+  ![Neon](https://img.shields.io/badge/-Neon-black?style=flat&logo=Neon&logoColor=white)
   ![AIVEN](https://img.shields.io/badge/-Aiven-black?style=flat&logo=Aiven&logoColor=white)
 - Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
    [![Swagger](https://img.shields.io/badge/-Swagger-green?style=flat&logo=Swagger&logoColor=white)](https://swagger.io/)
