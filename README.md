@@ -48,6 +48,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 - Deployment website: 
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
   [![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=Render&logoColor=white)](https://render.com/)
+  [![Railway](https://img.shields.io/badge/-Railway-black?style=flat&logo=railway&logoColor=white)](https://railway.app/)
+
+
 
   
 - ORM: [![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma&logoColor=blue)](https://www.prisma.io/)
