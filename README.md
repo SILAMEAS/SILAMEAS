@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 - Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb&logoColor=green)
   ![Neon](https://img.shields.io/badge/-Neon-black?style=flat&logo=Neon&logoColor=white)
   ![AIVEN](https://img.shields.io/badge/-Aiven-black?style=flat&logo=Aiven&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=PostgreSQL&logoColor=blue)
-  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=MySQL&logoColor=blue)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=blue)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=blue)
 
 
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
    [![Swagger](https://img.shields.io/badge/-Swagger-green?style=flat&logo=Swagger&logoColor=white)](https://swagger.io/)
    [![KINDE](https://img.shields.io/badge/-kinde-white?style=flat&logo=kinde&logoColor=black)](https://kinde.com/#product)
 
-  [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-white?style=flat&logo=Uploadthing&logoColor=red)](https://uploadthing.com/)
+  [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-black?style=flat&logo=Uploadthing&logoColor=orange)](https://uploadthing.com/)
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
   [![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=Render&logoColor=white)](https://render.com/)
 
