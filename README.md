@@ -10,18 +10,20 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 🔧 Technologies & Tools
 - Programming Languages: 
-  [![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://react.dev/)
-  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
-  [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
+  [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&logoColor=blue)](https://reactnative.dev/)
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&logoColor=blue)](https://reactnative.dev/)
 
-- Frameworks: [![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
+- Frameworks: [![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
+  [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
+  [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+  [![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
+
+- Css Frameworks: [![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
   [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://tailwindcss.com/)
   [![NEXTUI](https://img.shields.io/badge/-NEXTUI-black?style=flat&logo=NEXTUI&logoColor=white)](https://nextui.org/)
   [![shadcn/ui](https://img.shields.io/badge/-Shadcn/UI-black?style=flat&logo=ShadcnUI&logoColor=white)](https://ui.shadcn.com/)
   [![NativeBase](https://img.shields.io/badge/-NativeBase-black?style=flat&logo=nativebase&logoColor=blue)](https://nativebase.io/)
-
 
 
 - Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb&logoColor=green)
@@ -29,7 +31,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   ![AIVEN](https://img.shields.io/badge/-Aiven-black?style=flat&logo=Aiven&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&logoColor=blue)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=blue)
-
 
 
 - Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
