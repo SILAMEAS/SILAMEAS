@@ -49,6 +49,12 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Cloudinary](https://img.shields.io/badge/-cloudinary-black?style=flat&logo=cloudinary&logoColor=blue)](https://console.cloudinary.com/)
   [![Cloudinary](https://img.shields.io/badge/-Drawio-black?style=flat&logo=drawio&logoColor=blue)](https://app.diagrams.net/)
   [![Figma](https://img.shields.io/badge/-figma-black?style=flat&logo=figma&logoColor=purple)](https://www.figma.com/)
+  [![Trello](https://img.shields.io/badge/-Trello-black?style=flat&logo=trello&logoColor=blue)](https://www.trello.com/)
+  [![Jira](https://img.shields.io/badge/-JIRA-black?style=flat&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)
+
+  
+
+  
   
 
 
