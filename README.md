@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 - Frameworks: [![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
   [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://tailwindcss.com/)
   [![NEXTUI](https://img.shields.io/badge/-NEXTUI-black?style=flat&logo=NEXTUI&logoColor=white)](https://nextui.org/)
+  [![shadcn/ui](https://img.shields.io/badge/-Shadcn/UI-white?style=flat&logo=ShadcnUI&logoColor=white)](https://ui.shadcn.com/)
 
 
 - Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=Mongodb&logoColor=green)
@@ -34,6 +35,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-black?style=flat&logo=Uploadthing&logoColor=orange)](https://uploadthing.com/)
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
   [![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=Render&logoColor=white)](https://render.com/)
+
 
 
 ---
