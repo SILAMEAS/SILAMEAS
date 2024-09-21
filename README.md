@@ -16,8 +16,20 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
 - Frameworks: [![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
   [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://tailwindcss.com/)
+  [![NEXTUI](https://img.shields.io/badge/-NEXTUI-black?style=flat&logo=NEXTUI&logoColor=white)](https://nextui.org/)
+
+
 - Databases: ![Database](https://img.shields.io/badge/-Database-orange?logo=database)
+  ![Neon](https://console.neon.tech/app/projects)
+  ![AIVEN](https://img.shields.io/badge/-Aiven-black?style=flat&logo=Aiven&logoColor=white)
 - Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
+   [![Swagger](https://img.shields.io/badge/-Swagger-green?style=flat&logo=Swagger&logoColor=white)](https://swagger.io/)
+   [![KINDE](https://img.shields.io/badge/-kinde-white?style=flat&logo=kinde&logoColor=black)](https://kinde.com/#product)
+
+  [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-white?style=flat&logo=Uploadthing&logoColor=red)](https://uploadthing.com/)
+  [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
+  [![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=Render&logoColor=white)](https://render.com/)
+
 
 ---
 
