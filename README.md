@@ -41,11 +41,13 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 - Tools: [![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat&logo=Clerk&logoColor=white)](https://clerk.com/)
    [![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat&logo=Swagger&logoColor=white)](https://swagger.io/)
    [![KINDE](https://img.shields.io/badge/-kinde-black?style=flat&logo=kinde&logoColor=black)](https://kinde.com/#product)
-
   [![UPLOADTHING](https://img.shields.io/badge/-Uploadthing-black?style=flat&logo=Uploadthing&logoColor=orange)](https://uploadthing.com/)
+  [![Redux20Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat&logo=Redux%20Toolkit&logoColor=blue)](https://redux-toolkit.js.org/)
+
+- Deployment website: 
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
   [![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=Render&logoColor=white)](https://render.com/)
-  [![Redux20Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat&logo=Redux%20Toolkit&logoColor=blue)](https://redux-toolkit.js.org/)
+
   
 - ORM: [![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma&logoColor=blue)](https://www.prisma.io/)
    [![Typeorm](https://img.shields.io/badge/-Typeorm-black?style=flat&logo=typeorm&logoColor=red)](https://typeorm.io/)
