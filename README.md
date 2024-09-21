@@ -13,6 +13,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://react.dev/)
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&logoColor=blue)](https://reactnative.dev/)
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&logoColor=blue)](https://reactnative.dev/)
+  [![C](https://img.shields.io/badge/-Progamming-black?style=flat&logo=C&logoColor=white)]
+  [![C++](https://img.shields.io/badge/-C%20++-black?style=flat&logo=C++&logoColor=white)]
+
 
 - Frameworks: [![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
   [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
