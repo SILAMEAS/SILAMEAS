@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
   [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
   [![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
+  
+- Api Integration: [![Strapi](https://img.shields.io/badge/-Strapi-white?style=flat&logo=Strapi&logoColor=blue)](https://strapi.io/integrations)
 
 - Css Frameworks: [![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=Mui&logoColor=white)](https://mui.com/)
   [![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCss&logoColor=blue)](https://tailwindcss.com/)
@@ -52,12 +54,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Trello](https://img.shields.io/badge/-Trello-black?style=flat&logo=trello&logoColor=blue)](https://www.trello.com/)
   [![Jira](https://img.shields.io/badge/-JIRA-black?style=flat&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)
 
-  
-
-  
-  
-
-
 
 - Deployment website: 
   [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=Vercel&logoColor=white)](https://vercel.com/)
@@ -65,8 +61,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Railway](https://img.shields.io/badge/-Railway-black?style=flat&logo=railway&logoColor=white)](https://railway.app/)
 
 
-
-  
 - ORM: [![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma&logoColor=blue)](https://www.prisma.io/)
    [![Typeorm](https://img.shields.io/badge/-Typeorm-black?style=flat&logo=typeorm&logoColor=red)](https://typeorm.io/)
   
