@@ -53,6 +53,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Figma](https://img.shields.io/badge/-figma-black?style=flat&logo=figma&logoColor=purple)](https://www.figma.com/)
   [![Trello](https://img.shields.io/badge/-Trello-black?style=flat&logo=trello&logoColor=blue)](https://www.trello.com/)
   [![Jira](https://img.shields.io/badge/-JIRA-black?style=flat&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)
+  [![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm&logoColor=red)](https://www.npmjs.com/)
 
 
 - Deployment website: 
@@ -85,6 +86,7 @@ Here are some of my favorite projects:
 - [Project Discord](https://ms-discord.vercel.app) - next prisma
 - [Project Trello](https://clone-trello-copy.vercel.app) - next
 - [Real Website Farmskin](https://www.farmskinkh.com/news) - next with spring boot
+- [My npm package](https://www.npmjs.com/settings/sila_ck/packages) - package make your life easy
 
 ---
 
