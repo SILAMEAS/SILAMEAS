@@ -68,9 +68,14 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SILAMEAS&show_icons=true&theme=radical)
+---
 
+---
+
+## 📈 Most used
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SILAMEAS&show_icons=true&locale=en&layout=compact" alt="SILAMEAS" /></p>
 ---
 
 ## 📂 Projects
