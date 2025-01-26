@@ -64,7 +64,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 - ORM: [![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma&logoColor=blue)](https://www.prisma.io/)
    [![Typeorm](https://img.shields.io/badge/-Typeorm-black?style=flat&logo=typeorm&logoColor=red)](https://typeorm.io/)
-  
+
+-  Backend platform: [![Convex](https://img.shields.io/badge/-convex-red?style=flat&logo=convex.dev&logoColor=blue)](https://www.convex.dev/)
 
 
 ---
