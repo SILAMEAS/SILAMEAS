@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning. Here’s a bit about me:
 
 ## 🚀 About Me
-- 🌱 Currently learning: Next Nest SpringBoot React
+- 🌱 Currently learning: Next Nest SpringBoot React Python Django
 - 👨‍💻 Working on: Web Developer.
 
 ---
