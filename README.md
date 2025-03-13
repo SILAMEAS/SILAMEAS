@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SILAMEAS&layout=compact&theme=radical&hide_border=true&langs_count=100)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SILAMEAS&layout=compact&theme=radical&hide_border=true&langs_count=10)]
 ---
 
 ## 📂 Projects
