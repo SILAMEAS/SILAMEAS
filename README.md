@@ -72,12 +72,14 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 📈 GitHub Stats 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SILAMEAS&show_icons=true&theme=radical)
----
+
+## 🔥 Contribution Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SILAMEAS&theme=radical&hide_border=true)]
 
 ---
 
-## 📈 Most used
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SILAMEAS&show_icons=true&locale=en&layout=compact" alt="SILAMEAS" /></p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SILAMEAS&layout=compact&theme=radical&hide_border=true&langs_count=100)]
 ---
 
 ## 📂 Projects
