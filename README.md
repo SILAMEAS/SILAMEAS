@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat&logo=javascript&logoColor=yellow)
   ![C](https://img.shields.io/badge/-Progamming-black?style=flat&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/-C%20++-black?style=flat&logo=C++&logoColor=white)
+  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=yellow)](https://www.python.org/)
 
 
 
@@ -25,6 +26,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
   [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
   [![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
+  [![Django Rest Framework](https://img.shields.io/badge/-Django%20REST%20framework-black?style=flat&logo=Django&logoColor=red)]([https://spring.io/projects/spring-boot/](https://www.django-rest-framework.org/))
+  
   
 - Api Integration: [![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat&logo=Strapi&logoColor=blue)](https://strapi.io/integrations)
 
