@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   ![C](https://img.shields.io/badge/-Progamming-black?style=flat&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/-C%20++-black?style=flat&logo=C++&logoColor=white)
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=yellow)](https://www.python.org/)
+  [![Java](https://img.shields.io/badge/-java-black?style=flat&logo=Java&logoColor=java)](https://www.java.com/en/)
 
 
 
