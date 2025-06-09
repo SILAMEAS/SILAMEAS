@@ -88,7 +88,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 📂 Projects
 Here are some of my favorite projects:
-- [Project WOWNOW](https://next-js-wow-now.vercel.app) - spring boot with next.
+- [Project WOWNOW](https://lacy-restaurant.vercel.app/auth/login?redirect=%2F) - spring boot with next.
 - [Project Portfolio Full Stack](https://meas-sila.vercel.app/) - nest with next.
 - [Project Discord](https://ms-discord.vercel.app) - next prisma
 - [Project Trello](https://clone-trello-copy.vercel.app) - next
