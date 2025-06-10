@@ -95,7 +95,7 @@ Here are some of my favorite projects:
 - [Farmskin KH](https://www.farmskinkh.com/news) - next with spring boot
 - [AI email template](https://ai-email-template-builder.vercel.app/) - next with convex
 - 
-Here are some of my package:
+NPM Package
 
 - [notification](https://www.npmjs.com/settings/sila_ck/packages)
 - [table](https://www.npmjs.com/package/sila-ck-table-mui-rtk-query-npm)
