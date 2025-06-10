@@ -88,12 +88,12 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 📂 Projects
 Here are some of my favorite projects:
-- [Project WOWNOW](https://lacy-restaurant.vercel.app/auth/login?redirect=%2F) - spring boot with next.
-- [Project Portfolio Full Stack](https://meas-sila.vercel.app/) - nest with next.
-- [Project Discord](https://ms-discord.vercel.app) - next prisma
-- [Project Trello](https://clone-trello-copy.vercel.app) - next
-- [Real Website Farmskin](https://www.farmskinkh.com/news) - next with spring boot
-- [AI Generate Email Template](https://ai-email-template-builder.vercel.app/) - next with convex
+- [restaurant](https://lacy-restaurant.vercel.app/auth/login?redirect=%2F) - spring boot with next.
+- [portfolio](https://meas-sila.vercel.app/) - nest with next.
+- [discord](https://ms-discord.vercel.app) - next prisma
+- [trello](https://clone-trello-copy.vercel.app) - next
+- [Farmskin KH](https://www.farmskinkh.com/news) - next with spring boot
+- [AI email template](https://ai-email-template-builder.vercel.app/) - next with convex
 - 
 Here are some of my package:
 
