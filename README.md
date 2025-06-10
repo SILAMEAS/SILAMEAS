@@ -93,8 +93,10 @@ Here are some of my favorite projects:
 - [Project Discord](https://ms-discord.vercel.app) - next prisma
 - [Project Trello](https://clone-trello-copy.vercel.app) - next
 - [Real Website Farmskin](https://www.farmskinkh.com/news) - next with spring boot
-- [My npm package](https://www.npmjs.com/settings/sila_ck/packages) - package make your life easy
 - [AI Generate Email Template](https://ai-email-template-builder.vercel.app/) - next with convex
+Here are some of my package:
+- [notification](https://www.npmjs.com/settings/sila_ck/packages)
+- [table] (https://www.npmjs.com/package/sila-ck-table-mui-rtk-query-npm)
 
 ---
 
