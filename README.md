@@ -113,25 +113,35 @@ NPM Package
 
 ### Front end
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-blue)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue)
+
 ![React](https://img.shields.io/badge/React-100%25-blue)
 
+![Next](https://img.shields.io/badge/Next-80%25-blue)
+
 ### Backend
-![DjangoRestFramwork](https://img.shields.io/badge/DjangoRestFramwork-60%25-blue)
+![DjangoRestFramwork](https://img.shields.io/badge/DjangoRestFramwork-50%25-blue)
+
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-80%25-blue)
-![Node.js](https://img.shields.io/badge/Node.js-95%25-blue)
+
+![Node.js](https://img.shields.io/badge/Node.js-80%25-blue)
+
 ![Nest](https://img.shields.io/badge/Nest.js-70%25-blue)
+
 ![Express](https://img.shields.io/badge/Express-80%25-blue)
 
 ### Full Stack
-![Next](https://img.shields.io/badge/Next-90%25-blue)
+![Next](https://img.shields.io/badge/Next-60%25-blue)
 
 ### Mobile
 ![ReactNative](https://img.shields.io/badge/ReactNative-50%25-blue)
-![Flutter](https://img.shields.io/badge/Flutter-30%25-blue)
+
+![Flutter](https://img.shields.io/badge/Flutter-40%25-blue)
 
 ### Api Gerneration
 ![Strapi](https://img.shields.io/badge/Strapi-40%25-blue)
-![Convex](https://img.shields.io/badge/Convex-50%25-blue)
+
+![Convex](https://img.shields.io/badge/Convex-40%25-blue)
 
 ### Thank you for visiting my profile! 😊
