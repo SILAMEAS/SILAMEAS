@@ -58,6 +58,10 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
   [![Trello](https://img.shields.io/badge/-Trello-black?style=flat&logo=trello&logoColor=blue)](https://www.trello.com/)
   [![Jira](https://img.shields.io/badge/-JIRA-black?style=flat&logo=jira&logoColor=blue)](https://www.atlassian.com/software/jira)
   [![NPM](https://img.shields.io/badge/-NPM-black?style=flat&logo=npm&logoColor=red)](https://www.npmjs.com/)
+  ![Keycloak](https://img.shields.io/badge/keycloak-green?style=flat&logo=keycloak&logoColor=white&color=black)
+  ![Docker](https://img.shields.io/badge/docker-green?style=flat&logo=docker&logoColor=blue&color=black)
+
+
 
 
 - Deployment website: 
