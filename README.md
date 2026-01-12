@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 ## 🚀 About Me
 - 🌱 Currently learning: Next Nest SpringBoot React Python Django
 - 👨‍💻 Working on: Web Developer.
+-  [![My CV](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)]( https://flowcv.com/resume/s9ge49ptke54)
 
 ---
 
