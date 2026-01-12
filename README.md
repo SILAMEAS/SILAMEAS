@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 ## 🚀 About Me
 - 🌱 Currently learning: Next Nest SpringBoot React Python Django
 - 👨‍💻 Working on: Web Developer at ALLWEB.
--  [CV]( https://flowcv.com/resume/s9ge49ptke54)
+-  [My CV]( https://flowcv.com/resume/s9ge49ptke54)
 
 ---
 
