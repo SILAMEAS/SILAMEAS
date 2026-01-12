@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning. Here’s a bit about me:
 
 ## 🚀 About Me
-- 🌱 Currently learning: Next Nest SpringBoot React Python Django
+- 🌱 Currently learning: SpringBoot Angular
 - 👨‍💻 Working on: Web Developer at ALLWEB.
 -  [View CV]( https://flowcv.com/resume/s9ge49ptke54)
 
