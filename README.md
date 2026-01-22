@@ -132,7 +132,7 @@ NPM Package
 
 ![Node.js](https://img.shields.io/badge/Node.js-80%25-blue)
 
-![Nest](https://img.shields.io/badge/Nest.js-60%25-blue)
+![Nest](https://img.shields.io/badge/Nest.js-70%25-blue)
 
 ![Express](https://img.shields.io/badge/Express-80%25-blue)
 
