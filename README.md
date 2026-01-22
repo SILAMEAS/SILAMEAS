@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 🔧 Technologies & Tools
 - Programming Languages: 
-  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://react.dev/)
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&logoColor=blue)](https://reactnative.dev/)
   [![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter&logoColor=blue)](https://flutter.dev/?gad_source=1&gclid=Cj0KCQjw3bm3BhDJARIsAKnHoVVClQXaI-g_Y6ZeVshHmoXBHRQ0tXnrNEp6SJgo1NGEOqncHfmS4XUaAra_EALw_wcB&gclsrc=aw.ds)
   [![NodeJs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Nodejs&logoColor=white)](https://nodejs.org/en)
@@ -25,6 +24,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 
 - Frameworks: [![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
+  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://react.dev/)
   [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
   [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
   [![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
