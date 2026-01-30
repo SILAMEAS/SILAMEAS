@@ -96,7 +96,7 @@ Here are some of my favorite projects:
 - [lacy_restaurant](https://lacy.meassila.site) - spring boot with next.
 - [portfolio](https://meas-sila.vercel.app/) - nest with next.
 - [discord](https://ms-discord.vercel.app) - next prisma
-- [trello](https://clone-trello-copy.vercel.app) - next
+- [trello](https://trello.meassila.site/) - next
 - [Farmskin KH](https://www.farmskinkh.com/news) - next with spring boot
 - [AI email template](https://ai-email-template-builder.vercel.app/) - next with convex
 - 
