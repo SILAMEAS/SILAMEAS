@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 ## 📂 Projects
 Here are some of my favorite projects:
-- [lacy_restaurant](lacy.meassila.site) - spring boot with next.
+- [lacy_restaurant](https://lacy.meassila.site) - spring boot with next.
 - [portfolio](https://meas-sila.vercel.app/) - nest with next.
 - [discord](https://ms-discord.vercel.app) - next prisma
 - [trello](https://clone-trello-copy.vercel.app) - next
