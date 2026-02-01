@@ -91,14 +91,134 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SILAMEAS&layout=compact&theme=radical&hide_border=true&langs_count=10)]
 ---
 
-## 📂 Projects
-Here are some of my favorite projects:
-- [lacy_restaurant](https://lacy.meassila.site) - spring boot with next.
-- [portfolio](https://meas-sila.vercel.app/) - nest with next.
-- [discord](https://ms-discord.vercel.app) - next prisma
-- [trello](https://trello.meassila.site/) - next
-- [Farmskin KH](https://www.farmskinkh.com/news) - next with spring boot
-- [AI email template](https://ai-email-template-builder.vercel.app/) - next with convex
+# 🚀 Projects
+
+A curated collection of my favorite full-stack projects — focused on **modern web apps**, **clean architecture**, and **real-world use cases**.
+
+---
+
+## 🍽️ Lacy Restaurant
+
+**Tech Stack:** Spring Boot · Next.js
+
+A full restaurant management and ordering platform.
+
+* 🌐 **Live:** [https://lacy.meassila.site](https://lacy.meassila.site)
+* 🧠 **Backend API:** [https://github.com/SILAMEAS/lacy_restaurant_api](https://github.com/SILAMEAS/lacy_restaurant_api)
+* 💻 **Frontend:** [https://github.com/SILAMEAS/lacy_restaurant](https://github.com/SILAMEAS/lacy_restaurant)
+
+**Highlights**
+
+* RESTful API with Spring Boot
+* Modern Next.js frontend
+* Authentication & role management
+* Deployed production environment
+
+---
+
+## 🎨 Portfolio
+
+**Tech Stack:** NestJS · Next.js
+
+Personal developer portfolio showcasing projects, skills, and experience.
+
+* 🌐 **Live:** [https://meas-sila.vercel.app/](https://meas-sila.vercel.app/)
+* 🧠 **Backend API:**https://github.com/SILAMEAS/lacy-portfolio
+* 💻 **Frontend:**   https://github.com/SILAMEAS/lacy_portfolio_api
+
+
+**Highlights**
+
+* Clean and minimal UI
+* SEO-optimized
+* Server-side rendering
+
+---
+
+## 💬 Discord Clone
+
+**Tech Stack:** Next.js · Prisma
+
+A Discord-inspired real-time chat application.
+
+* 🌐 **Live:** [https://ms-discord.vercel.app](https://ms-discord.vercel.app)
+* 🧠+💻 **full stack** https://github.com/SILAMEAS/clone-discord
+
+**Highlights**
+
+* Real-time messaging
+* Database-driven channels
+* Scalable schema with Prisma
+
+---
+
+## 📋 Trello Clone
+
+**Tech Stack:** Next.js
+
+A task and project management tool inspired by Trello.
+
+* 🌐 **Live:** [https://trello.meassila.site/](https://trello.meassila.site/)
+* 🧠+💻 **full stack** https://github.com/SILAMEAS/clone_trello
+
+**Highlights**
+
+* Drag & drop boards
+* Clean UX
+* Productivity-focused design
+
+---
+
+## 🌾 Farmskin KH
+
+**Tech Stack:** Next.js · Spring Boot
+
+A news and content platform for Farmskin KH.
+
+* 🌐 **Live:** [https://www.farmskinkh.com/news](https://www.farmskinkh.com/news)
+* 💻 **enduser** : https://github.com/SILAMEAS/farmskin_enduser
+* 💻 **superadmin** : https://github.com/SILAMEAS/farmskin_superadmin
+
+  note : I work as frontend, other dev work as backend freelance project
+
+**Highlights**
+
+* SEO-friendly content pages
+* Spring Boot backend integration
+* Production-ready deployment
+
+---
+
+## 🤖 AI Email Template Builder
+
+**Tech Stack:** Next.js · Convex · AI
+
+An AI-powered tool for generating professional email templates in seconds.
+
+* 🌐 **Live:** [https://ai-email-template-builder.vercel.app/](https://ai-email-template-builder.vercel.app/)
+* 🧠+💻 **full stack** https://github.com/SILAMEAS/ai-email-template-builder
+
+**Highlights**
+
+* AI-generated email content
+* Modern UI/UX
+* Real-time database with Convex
+* Built for productivity and speed
+
+---
+
+## 🛠️ General Stack & Tools
+
+* Next.js / React
+* Spring Boot / NestJS
+* Prisma / Convex
+* Tailwind CSS
+* Vercel / Custom Hosting
+
+---
+
+✨ *Always building, always learning.*
+
 - 
 NPM Package
 
