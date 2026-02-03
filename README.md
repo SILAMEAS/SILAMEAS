@@ -23,12 +23,15 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source, and cont
 
 
 
-- Frameworks: [![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
+- Frameworks:
+  [![Next](https://img.shields.io/badge/-Next-black?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://react.dev/)
   [![Nest](https://img.shields.io/badge/-NestJs-black?style=flat&logo=Nestjs&logoColor=red)](https://nestjs.com/)
   [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
   [![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=SpringBoot&logoColor=green)](https://spring.io/projects/spring-boot/)
   [![Django Rest Framework](https://img.shields.io/badge/-Django%20REST%20framework-black?style=flat&logo=Django&logoColor=red)]([https://spring.io/projects/spring-boot/](https://www.django-rest-framework.org/))
+  [![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=Vue.js&logoColor=green)](https://vuejs.org/)
+  [![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat&logo=Nuxt.js&logoColor=green)](https://nuxt.com)
   
   
 - Api Integration: [![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat&logo=Strapi&logoColor=blue)](https://strapi.io/integrations)
