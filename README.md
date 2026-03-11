@@ -250,15 +250,16 @@ NPM Package
 ![Next](https://img.shields.io/badge/Next-100%25-blue)
 
 ### Backend
-![DjangoRestFramwork](https://img.shields.io/badge/DjangoRestFramwork-75%25-blue)
-
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-90%25-blue)
 
-![Node.js](https://img.shields.io/badge/Node.js-75%25-blue)
+![Nest](https://img.shields.io/badge/Nest.js-70%25-blue)
 
-![Nest](https://img.shields.io/badge/Nest.js-75%25-blue)
+![Express](https://img.shields.io/badge/Express-60%25-blue)
 
-![Express](https://img.shields.io/badge/Express-75%25-blue)
+![DjangoRestFramwork](https://img.shields.io/badge/DjangoRestFramwork-50%25-blue)
+
+![Node.js](https://img.shields.io/badge/Node.js-50%25-blue)
+
 
 ### Full Stack
 ![Next](https://img.shields.io/badge/Next-90%25-blue)
