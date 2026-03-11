@@ -241,13 +241,13 @@ NPM Package
 ## Skill
 
 ### Front end
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-blue)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue)
-
 ![React](https://img.shields.io/badge/React-100%25-blue)
 
 ![Next](https://img.shields.io/badge/Next-100%25-blue)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-blue)
 
 ### Backend
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-90%25-blue)
