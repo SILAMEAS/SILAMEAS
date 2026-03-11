@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, open-source, and continuous learning. Here’s a bit about me:
 
 ## 🚀 About Me
-- 🌱 Currently learning: SpringBoot Angular
+- 🌱 Currently learning: SpringBoot
 - 👨‍💻 Working on: Web Developer at ALLWEB.
 -  [View CV]( https://flowcv.com/resume/s9ge49ptke54)
 
@@ -252,7 +252,7 @@ NPM Package
 ### Backend
 ![DjangoRestFramwork](https://img.shields.io/badge/DjangoRestFramwork-75%25-blue)
 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-75%25-blue)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-90%25-blue)
 
 ![Node.js](https://img.shields.io/badge/Node.js-75%25-blue)
 
